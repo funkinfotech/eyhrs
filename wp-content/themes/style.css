@@ -1,0 +1,10 @@
+/*
+Theme Name: Astra Eyhrs Child
+Template: astra
+Author: Kevin Funk
+Description: Custom child theme for Elevate Your Home Renovations
+Version: 1.0
+*/
+
+@import url("../astra/style.css"); /* Optional: Astra will be enqueued via functions.php */
+
